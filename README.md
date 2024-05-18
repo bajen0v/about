@@ -5,7 +5,8 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с онлайн обучения на платформе Хекслет, с подготовительного курса по frontend-разработке, также прошел интенсив от HTML - academy по верстке, в июне 2023 я прошел онлайн обучение в СберУниверситете, на котором создал приложение магазина по продаже солнечных батарей [![github](https://github.com/bajen0v/green-corp-landing), а также выполнил групповой проект приложение-социальная сеть. [![github](https://github.com/bajen0v/groupProject_createPosts)
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+
 
 - :zap: Моя цель - работать в IT и развиваться в этом направлении в дальнейшем.
 
