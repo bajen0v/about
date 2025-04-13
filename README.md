@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Работую с декабря 2023 года в IT-компании, на позиции разработика.
+Я frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Работую с декабря 2022 года в IT-компании, на позиции разработика.
 
 
 - :zap: Моя цель - работать в IT и развиваться в этом направлении в дальнейшем.
